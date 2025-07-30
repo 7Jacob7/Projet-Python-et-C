@@ -1,4 +1,4 @@
-# 🎓 Projet Python et C – Gestion des Étudiants
+# 🎓 Projet Python et C 
 
 Bienvenue dans ce dépôt GitHub qui regroupe deux mini-projets réalisés dans le cadre d’un apprentissage pratique de la programmation.  
 L’objectif est d’illustrer l’implémentation d’un même thème – la gestion des étudiants – en **langage Python** et en **langage C**.
