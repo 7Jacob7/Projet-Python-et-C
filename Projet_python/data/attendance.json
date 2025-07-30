@@ -1,0 +1,54 @@
+{
+  "2025-06-12": {
+    "date": "2025-06-12",
+    "td_name": "TD/Cours",
+    "description": "",
+    "created_timestamp": "2025-06-12T01:01:30.560097",
+    "records": {
+      "bs001": {
+        "student_id": "bs001",
+        "date": "2025-06-12",
+        "status": "En retard",
+        "td_name": "TD/Cours",
+        "notes": "",
+        "time_marked": "01:02:22",
+        "created_timestamp": "2025-06-12T01:02:22.590307"
+      },
+      "bs002": {
+        "student_id": "bs002",
+        "date": "2025-06-12",
+        "status": "Absent",
+        "td_name": "TD/Cours",
+        "notes": "",
+        "time_marked": "01:01:37",
+        "created_timestamp": "2025-06-12T01:01:37.684579"
+      }
+    }
+  },
+  "2025-06-21": {
+    "date": "2025-06-21",
+    "td_name": "TD/Cours",
+    "description": "",
+    "created_timestamp": "2025-06-21T19:27:32.836411",
+    "records": {
+      "bs001": {
+        "student_id": "bs001",
+        "date": "2025-06-21",
+        "status": "Présent",
+        "td_name": "TD/Cours",
+        "notes": "",
+        "time_marked": "19:27:32",
+        "created_timestamp": "2025-06-21T19:27:32.836946"
+      },
+      "bs002": {
+        "student_id": "bs002",
+        "date": "2025-06-21",
+        "status": "Présent",
+        "td_name": "TD/Cours",
+        "notes": "",
+        "time_marked": "19:27:38",
+        "created_timestamp": "2025-06-21T19:27:38.507572"
+      }
+    }
+  }
+}
